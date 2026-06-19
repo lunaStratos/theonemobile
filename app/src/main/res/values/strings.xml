@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">더원요금조회</string>
+    <string name="widget_small_desc">데이터 잔여량과 예상 요금을 표시하는 1x1 위젯</string>
+    <string name="widget_medium_desc">데이터 잔여 · 예상 요금을 한눈에 보는 1x2 위젯</string>
+    <string name="widget_wide_desc">데이터 · 음성 · 예상 요금을 표시하는 1x4 위젯</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 어댑티브 아이콘 전경: icon.png 로고를 108dp 캔버스 중앙(세이프존)에 배치 -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="58dp"
+        android:height="60dp"
+        android:gravity="center"
+        android:drawable="@drawable/icon" />
+</layer-list>
